@@ -2,8 +2,9 @@
     display:grid;
     grid-template-columns: repeat(3,1fr);
     grid-template-rows:repeat(3,20vw);
-    grid-gap:10px;
+    grid-gap:15px;
     justify-content: center;
+    max-width: 70%;
 }
 
 .gal-img{
@@ -26,4 +27,8 @@
     grid-column:3/4;
     grid-row-start:2;
     grid-row-end:4;
+}
+
+figure{
+    margin:0;
 }
