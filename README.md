@@ -27,7 +27,6 @@ https://my-gallery-vp.vercel.app
   - Great practice
 - What have you learned/improved?
   - Learned CSS Grids
-  - Improving on materialUI
 - Your wisdom? 
   - Keep at it!
 
