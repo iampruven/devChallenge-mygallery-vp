@@ -1,5 +1,8 @@
 # Practice Frontend with my gallery master from DevChallenges
 
+## Link to deployed website
+https://my-gallery-vp.vercel.app
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -14,7 +17,8 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![my-gallery-vp vercel app_(iPhone X)](https://user-images.githubusercontent.com/59456028/102413186-674c2b00-3fa9-11eb-8e19-44953ebec9d7.png)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -23,6 +27,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
   - Great practice
 - What have you learned/improved?
   - Learned CSS Grids
+  - Improving on materialUI
 - Your wisdom? :)
 
 ### Built With
