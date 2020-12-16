@@ -22,12 +22,14 @@ https://my-gallery-vp.vercel.app
 </p>
 
 - Where can I see your demo?
+  - https://my-gallery-vp.vercel.app
 - What was your experience?
   - Great practice
 - What have you learned/improved?
   - Learned CSS Grids
   - Improving on materialUI
-- Your wisdom? :)
+- Your wisdom? 
+  - Keep at it!
 
 ### Built With
 
