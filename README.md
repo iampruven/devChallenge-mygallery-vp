@@ -17,10 +17,7 @@ https://my-gallery-vp.vercel.app
 
 ## Overview
 
-![my-gallery-vp vercel app_(iPhone X)](https://user-images.githubusercontent.com/59456028/102413186-674c2b00-3fa9-11eb-8e19-44953ebec9d7.png)
-
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![my-gallery-vp vercel app_(iPhone X)](https://user-images.githubusercontent.com/59456028/102413186-674c2b00-3fa9-11eb-8e19-44953ebec9d7.png width="200" height="300") 
 
 - Where can I see your demo?
 - What was your experience?
