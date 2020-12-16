@@ -1,3 +1,7 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
 .grid-container{
     display:grid;
     grid-template-columns: repeat(3,1fr);
@@ -24,7 +28,25 @@
 p{
     line-height: 10%;
 }
-
+.smaller{
+    font-size: small;
+    color:gray;
+}
+.rowing{
+    display:flex;
+    justify-content: center;
+    margin-bottom:40px;
+}
+.followers{
+    border-radius: 5%;
+    background-color: rgb(190, 183, 183);
+    width:5em;
+    height:3em;
+    text-align: center;
+    margin:15px;
+    white-space: pre-wrap;
+    line-height: normal;
+}
 main{
     display: flex;
     justify-content: center;
